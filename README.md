@@ -17,7 +17,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HirunaIlukpitiya&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HirunaIlukpitiya&layout=compact&theme=blue-green)
 <h1></h1>
-<h2 style="font-size: 24px;">🏃🏼‍♂️ Reach me</h2>
+<h2 style="font-size: 35px;">🏃🏼‍♂️ Reach me</h2>
 <br>
 <div>
   <a href="https://www.linkedin.com"><img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/linkedin-512.png" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;
@@ -26,7 +26,7 @@
 </div>
 </h2>
 
-<h2 style="font-size: 24px;">🛠 Skills
+<h2 style="font-size: 35px;">🛠 Skills
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
