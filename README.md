@@ -17,16 +17,15 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HirunaIlukpitiya&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HirunaIlukpitiya&layout=compact&theme=blue-green)
 <h1></h1>
-<h2 style="font-size: 35px;">🏃🏼‍♂️ Reach me
-<br>
+
+**🏃🏼‍♂️ Reach me**
 <div>
   <a href="https://www.linkedin.com"><img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/linkedin-512.png" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;
   <a href="https://www.facebook.com"><img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Facebook_glyph_svg-512.png" title="fb" alt="fb" width="40" height="40"/></a>&nbsp;
   <a href="#"><img src="https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-512.png" title="x" alt="x" width="40" height="40"/></a>&nbsp;
 </div>
-</h2>
 
-<h2 style="font-size: 35px;">🛠 Skills
+**🛠 Skills**
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
@@ -59,7 +58,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" title="vercel" alt="vercel" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
 </div>
-</h2>
 
 
 
