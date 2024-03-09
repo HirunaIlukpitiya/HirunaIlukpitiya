@@ -18,7 +18,7 @@
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HirunaIlukpitiya&layout=compact&theme=blue-green)
 <h1></h1>
 
-## 🏃🏼‍♂️ Reach me :
+<span style="font-size: 2em;">🏃🏼‍♂️</span> Reach me :
 <div>
   <a href="https://www.linkedin.com"><img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/linkedin-512.png" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;
   <a href="https://www.facebook.com"><img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Facebook_glyph_svg-512.png" title="fb" alt="fb" width="40" height="40"/></a>&nbsp;
@@ -27,7 +27,7 @@
 <h1></h1>
 
 
-## 🛠 Skills :
+ 🛠 Skills :
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
