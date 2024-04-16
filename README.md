@@ -20,8 +20,8 @@
 
    Reach me 🏃🏼
 <div>
-  <a href="https://www.linkedin.com"><img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/linkedin-512.png" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.facebook.com"><img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Facebook_glyph_svg-512.png" title="fb" alt="fb" width="40" height="40"/></a>&nbsp;
+  <a href="www.linkedin.com/in/hirunailukpitiya"><img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/linkedin-512.png" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.facebook.com/hiruna.lakshan.14/"><img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Facebook_glyph_svg-512.png" title="fb" alt="fb" width="40" height="40"/></a>&nbsp;
   <a href="#"><img src="https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-512.png" title="x" alt="x" width="40" height="40"/></a>&nbsp;
 </div>
 <h1></h1>
