@@ -10,7 +10,7 @@
 
 - 🌱 Currently learning Spring boot and ReactJS
 - 👯 Looking to collaborate on interesting open-source projects
-- 💬 Ask me about JavaScript, VueJS
+- 💬 Ask me about JavaScript, ReactJS
 - 📫 How to reach me: hirunalakshan00@gmail.com
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HirunaIlukpitiya&show_icons=true&theme=radical)
